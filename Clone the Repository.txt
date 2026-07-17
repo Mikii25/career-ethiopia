@@ -1,0 +1,8 @@
+git clone https://github.com/Mikii25/career-ethiopia.git
+cd career-ethiopia
+
+# Copy your Flutter project files here
+# Then:
+git add .
+git commit -m "Add Flutter project files"
+git push origin main

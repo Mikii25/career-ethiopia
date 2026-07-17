@@ -1,0 +1,17 @@
+# Navigate to your Flutter project directory
+cd ~/path/to/your/flutter/project
+
+# Initialize git (if not already done)
+git init
+
+# Add the remote repository
+git remote add origin https://github.com/Mikii25/career-ethiopia.git
+
+# Add all your project files
+git add .
+
+# Create your initial commit
+git commit -m "Add Flutter project files for Career Ethiopia"
+
+# Push to GitHub
+git push -u origin main
